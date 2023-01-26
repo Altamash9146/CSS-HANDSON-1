@@ -1,0 +1,56 @@
+h1{
+    color: red;
+}
+
+
+h2{
+    color:orangered;
+    font-style: italic;
+}
+
+ol{
+    color: brown;
+}
+
+.li3a{
+    text-decoration: line-through;
+   
+}
+
+.li3b{
+    background-color: yellow;
+    display: inline;
+}
+
+.li3c{
+    display: inline;
+}
+
+.li4{
+    text-decoration: underline;
+   font-style: italic;
+}
+
+h3{
+    color:orangered;
+    font-style: italic;
+}
+
+.ul1{
+    word-spacing: 5px;
+    letter-spacing: 5px;
+}
+.ul3{
+    color: brown;
+}
+
+p{
+    color: brown;
+}
+
+a{
+    color:orangered;
+    font-style: italic;
+    background-color: yellow;
+    text-decoration: none;
+}
